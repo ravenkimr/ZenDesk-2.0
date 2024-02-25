@@ -80,7 +80,7 @@ The desk's design emphasizes a singular user experience, enhancing real-time fee
 - LEDs with serial communication enable user peripheral interactions
 - Improved UI for user-friendliness
 - Improved functionality for volume detection, transcription, and analysis
-- 
+
 ---
 
 **Currently Known Bugs**
