@@ -63,7 +63,7 @@ Significant progress has been made in minimizing bugs related to audio functiona
 
 ### Persistent State
 
-- **Transcript and Summary Generation**: Provides prompt transcriptions and accurate summaries, albeit with limitations in accuracy and formatting due to AI processing.
+- **Transcript and Summary Generation**: Provides prompt transcriptions, albeit with limitations in accuracy and formatting due to AI processing.
 
 ---
 
@@ -95,6 +95,16 @@ Significant progress has been made in minimizing bugs related to audio functiona
 - Wrong appropriateness ratings being given, ocassionally
 - Summaries are not consistently working
   
+---
+
+## Instructions for Use
+
+  1. Once a group member has given you access to the UnityTeams Repository, find the scene titled: “UIScene” which one can easily search for in the search bar. 
+  2. Click on “File” on the top and find “Build Settings”. Make sure that the “Scenes In Build” contains the scene you want.
+  3. Click on “Build” and specify the location of where you want the build to be placed.
+  4. Once the build has compiled, it should open the file location that you specified.
+  5. Run the executable file titled: “ZENdesk”.
+     
 ---
 
 
