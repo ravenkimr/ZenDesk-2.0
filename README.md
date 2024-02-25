@@ -71,4 +71,26 @@ The desk's design emphasizes a singular user experience, enhancing real-time fee
 
 ---
 
+**Outline of Work Done**
+
+- Communication with OpenAI's API to enable Whisper and ChatGPT analysis
+- Real-time transcription
+- Live chatbox functionality
+- Transcript summarization
+- LEDs with serial communication enable user peripheral interactions
+- Improved UI for user-friendliness
+- Improved functionality for volume detection, transcription, and analysis
+- 
+---
+
+**Currently Known Bugs**
+
+- Microphone still picks up excess background noise
+- Audio is sometimes misinterpreted
+- Wrong appropriateness ratings being given, ocassionally
+- Occasionally, summaries are prone to misinterpretations
+
+---
+
+
 *Note: This README file provides an overview of the ZenFLOW Desk 2.0 beta build, including its features, usability, build quality, vertical features, current limitations, and considerations for future development.*
