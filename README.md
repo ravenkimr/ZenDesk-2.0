@@ -94,6 +94,7 @@ Significant progress has been made in minimizing bugs related to audio functiona
 - Audio is sometimes misinterpreted
 - Wrong appropriateness ratings being given, ocassionally
 - Summaries are not consistently working
+- Arduino occasionally is unable to find the port for serial communication
   
 ---
 
