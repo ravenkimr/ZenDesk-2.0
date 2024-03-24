@@ -71,7 +71,7 @@ Significant progress has been made in minimizing bugs related to audio functiona
 
 - **Hardware and Software**: Issues with microphone sensitivity and audio clip cutoffs.
 - **API Calls**: Performance impacts and response delays.
-- **Cost**: Potential long-term expenses, especially with Whisper integration.
+- **Cost**: Potential long-term expenses, especially with Whisper integration and increased API calls.
 - **AI Processing**: Accuracy and formatting limitations in transcriptions and summaries.
 
 ---
@@ -81,6 +81,7 @@ Significant progress has been made in minimizing bugs related to audio functiona
 - Communication with OpenAI's API to enable Whisper and ChatGPT analysis
 - Real-time transcription
 - Live chatbox functionality
+- Discussion satistics to gauge user behaviors and development
 - LEDs with serial communication enable user peripheral interactions
 - Improved UI for user-friendliness
 - Improved functionality for volume detection, transcription, and analysis
@@ -105,7 +106,9 @@ Significant progress has been made in minimizing bugs related to audio functiona
   3. Click on “Build” and specify the location of where you want the build to be placed.
   4. Once the build has compiled, it should open the file location that you specified.
   5. Run the executable file titled: “ZENdesk”.
-     
+  6. Use the “Discussion Statistics” Button to receive some feedback on your conversation.
+  7. Use the “Clear Logs” or “End Discussion” button to handle transitions to new topics or conversations.
+
 ---
 
 
